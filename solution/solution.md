@@ -1,6 +1,6 @@
 # Daily Challenge, but MoonBit
 
-## Find the Unique Number
+## 1. Find the Unique Number
 
 Problem Link: https://oj.moonbitlang.com/problems/202412-001-find-the-unique-number
 
