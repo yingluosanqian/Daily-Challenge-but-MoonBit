@@ -6,6 +6,8 @@ As indicated in the repository title, I update at a rate of one problem per day,
 
 I belief that `Functional Programming` + `Competition Programming` will be funny. Let's start!
 
----
+## Completed Problems
+
+[1. Find the Unique Number](solution/solution.md#1-find-the-unique-number)
 
 Updating...
