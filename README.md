@@ -10,4 +10,6 @@ I belief that `Functional Programming` + `Competition Programming` will be funny
 
 [1. Find the Unique Number](solution/solution.md#1-find-the-unique-number)
 
+[2. Supply Problem in Hiking](solution/solution.md#2-supply-problem-in-hiking)
+
 Updating...
